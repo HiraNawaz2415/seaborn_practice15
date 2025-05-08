@@ -1,0 +1,7 @@
+Python 3.7+
+Seaborn
+Matplotlib
+Pandas
+Jupyter
+Install them via pip:
+pip install seaborn matplotlib pandas jupyter
